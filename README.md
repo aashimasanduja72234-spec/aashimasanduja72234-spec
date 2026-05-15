@@ -30,9 +30,9 @@ Final-year BBA student passionate about turning raw data into business decisions
 
 | Project | Tools | Description |
 |---|---|---|
-| [Customer Churn Analysis](https://github.com/aashimasanduja72234-spec/Data-Analytics-portfolio/tree/main/customer-churn-dashboard) | Power BI, Excel | Identified key drivers of customer attrition and retention strategies |
-| Superstore Sales Dashboard | Power BI, Excel | Revenue and profitability analysis — *uploading soon* |
-| Amazon Sales Analysis | SQL | Product and category trend analysis — *uploading soon* |
+| [Customer Churn Analysis](https://github.com/aashimasanduja72234-spec/Customer-Churn-Dashboard) | Power BI, Excel | Identified key drivers of customer attrition and retention strategies |
+| [Superstore Sales Dashboard](https://github.com/aashimasanduja72234-spec/Superstore-Sales-Dashboard) | Power BI, Excel | Revenue and profitability analysis |
+| [Amazon Sales Analysis](https://github.com/aashimasanduja72234-spec/Amazon-Sales-Analysis) | SQL | Product and category trend analysis |
 
 ---
 
