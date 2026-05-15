@@ -13,8 +13,6 @@
 
 ### About me
 
-### About me
-
 I'm a Data Analyst focused on transforming raw datasets into structured insights 
 that support business decision-making. I work across the full analytics workflow — 
 data cleaning, exploration, visualization, and reporting — to deliver clear, 
