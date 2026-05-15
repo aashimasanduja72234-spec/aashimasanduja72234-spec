@@ -13,8 +13,26 @@
 
 ### About me
 
-Final-year BBA student passionate about turning raw data into business decisions. Previously interned at **Realme** (Escalations), where I analysed customer complaint data to identify recurring issues and reduce repeat escalations.
+### About me
 
+I'm a Data Analyst focused on transforming raw datasets into structured insights 
+that support business decision-making. I work across the full analytics workflow — 
+data cleaning, exploration, visualization, and reporting — to deliver clear, 
+actionable results.
+
+Currently completing my **BBA (Final Year)** while building hands-on experience 
+through real-world analytics projects in customer behaviour, sales performance, 
+and business intelligence.
+
+I use **Python, SQL, Power BI, and Advanced Excel** to analyse datasets, build 
+dashboards, and communicate trends that drive measurable outcomes. My approach 
+combines analytical thinking with business understanding — ensuring insights are 
+both technically sound and practically useful.
+
+Previously interned at **Realme** (Escalations), where I analysed customer 
+complaint data to identify recurring issue patterns and reduce repeat escalations.
+
+📍 Delhi, India &nbsp;|&nbsp; 📬 Actively seeking Data Analyst roles
 ---
 
 ### 🛠 Tools & Skills
